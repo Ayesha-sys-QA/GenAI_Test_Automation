@@ -31,12 +31,6 @@ This project demonstrates how AI models can support Quality Assurance through:
 - 📊 Test data generation via LLM prompts  
 
 ---
-
-## 🧪 Example
-```bash
-# Run TestRigor scenario
-testrigor run --project GenAI_Test_Automation
-
 🧩 GenAI + QA Workflow
 
 Requirements → DeepSeek → AI Test Scenarios
@@ -61,5 +55,5 @@ Connect with Jira for AI-based defect prediction
 Aicha Moustatia — QA Automation Engineer | AI in Testing | Java, Selenium, TestNG, Cucumber
 📎 GitHub Profile
 
-⭐ If you find this project insightful, feel free to star or fork it.
+
 
