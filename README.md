@@ -37,3 +37,18 @@ This project demonstrates how AI models can support Quality Assurance through:
 # Run TestRigor scenario
 testrigor run --project GenAI_Test_Automation
 
+📈 Future Work
+
+Integrate with CI/CD pipeline (Jenkins)
+
+Expand DeepSeek model evaluation metrics
+
+Connect with Jira for AI-based defect prediction
+
+👩‍💻 Author
+
+Aicha Moustatia — QA Automation Engineer | AI in Testing | Java, Selenium, TestNG, Cucumber
+📎 GitHub Profile
+
+⭐ If you find this project insightful, feel free to star or fork it.
+
