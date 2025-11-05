@@ -33,14 +33,9 @@ This project demonstrates how AI models can support Quality Assurance through:
 ---
 🧩 GenAI + QA Workflow
 
-Requirements → DeepSeek → AI Test Scenarios
-       ↓
-     Ollama → Refines Prompts & Edge Cases
-       ↓
-   TestRigor → Executes Natural-Language Tests
-       ↓
-    Results → Self-Healing & Analytics
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7752f1d0-338d-440f-a82d-b558af013a60" />
 
+---
 
 📈 Future Work
 
@@ -49,7 +44,7 @@ Integrate with CI/CD pipeline (Jenkins)
 Expand DeepSeek model evaluation metrics
 
 Connect with Jira for AI-based defect prediction
-
+---
 👩‍💻 Author
 
 Aicha Moustatia — QA Automation Engineer | AI in Testing | Java, Selenium, TestNG, Cucumber
