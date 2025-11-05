@@ -33,9 +33,7 @@ This project demonstrates how AI models can support Quality Assurance through:
 ---
 🧩 GenAI + QA Workflow
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/204387229/510313512-7752f1d0-338d-440f-a82d-b558af013a60.png" alt="GenAI QA Workflow" width="500"/>
-</p>
+
 ---
 
 📈 Future Work
