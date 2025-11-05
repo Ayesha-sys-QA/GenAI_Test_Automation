@@ -1,2 +1,39 @@
-# GenAI_Test_Automation
-An experimental framework integrating TestRigor, DeepSeek, and Ollama to explore AI-assisted test automation. Combines natural-language test generation, self-healing scripts, and GenAI models to enhance test coverage and reduce maintenance effort.
+# 🧠 GenAI_Test_Automation
+
+An experimental framework integrating **TestRigor**, **DeepSeek**, and **Ollama** to explore **AI-assisted test automation**.  
+Combines natural-language test generation, self-healing scripts, and GenAI models to enhance test coverage and reduce maintenance effort.
+
+---
+
+## 🚀 Project Overview
+This project demonstrates how AI models can support Quality Assurance through:
+- Automated test case generation from requirements.
+- Natural-language test execution with TestRigor.
+- Predictive analytics for flaky test detection using DeepSeek.
+- Integration with local LLMs (Ollama) for test intent analysis.
+
+---
+
+## ⚙️ Tech Stack
+| Tool | Purpose |
+|------|----------|
+| **TestRigor** | No-code test execution via natural language |
+| **DeepSeek** | AI model for test generation and reasoning |
+| **Ollama** | Local LLM integration for context-aware validation |
+| **VS Code** | IDE for framework and script development |
+
+---
+
+## 🧩 Features
+- 🤖 AI-generated test cases  
+- 🧠 Model-based test reasoning  
+- 🔁 Self-healing automation  
+- 📊 Test data generation via LLM prompts  
+
+---
+
+## 🧪 Example
+```bash
+# Run TestRigor scenario
+testrigor run --project GenAI_Test_Automation
+
