@@ -37,6 +37,17 @@ This project demonstrates how AI models can support Quality Assurance through:
 # Run TestRigor scenario
 testrigor run --project GenAI_Test_Automation
 
+🧩 GenAI + QA Workflow
+
+Requirements → DeepSeek → AI Test Scenarios
+       ↓
+     Ollama → Refines Prompts & Edge Cases
+       ↓
+   TestRigor → Executes Natural-Language Tests
+       ↓
+    Results → Self-Healing & Analytics
+
+
 📈 Future Work
 
 Integrate with CI/CD pipeline (Jenkins)
